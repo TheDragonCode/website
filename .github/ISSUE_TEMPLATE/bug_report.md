@@ -8,7 +8,7 @@ assignees: andrey-helldar
 ---
 
 ### Report domain
-- Our Domain: **__.dragon-code.pro**
+- **__.dragon-code.pro**
 
 ### Describe the bug
 A clear and concise description of what the bug is.
